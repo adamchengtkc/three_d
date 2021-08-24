@@ -15,7 +15,7 @@ https://adamchengtkc.github.io/three_d/
  - [ ] Independent colour scale
  - [ ] Adjustable colour scale
  - [ ] Axis labels
- - [ ] Coordinates label
+ - [x] Coordinates label
  - [ ] Touch support
 
 ## What is new
