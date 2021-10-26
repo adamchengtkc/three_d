@@ -36,6 +36,11 @@ import {make_surface,	touch_start_fn,
 	mouse_zoom_wrapper,
 	mouse_move_wrapper,
 	mouse_out_wrapper,
+	resizeCanvas,
+	setVE,
+	view2D,
+	view3D
+
 } from './main.js';
 var three_d = {make_surface,touch_start_fn,
 	touch_move_fn,
@@ -46,5 +51,10 @@ var three_d = {make_surface,touch_start_fn,
 	mouse_up_fn,
 	mouse_zoom_wrapper,
 	mouse_move_wrapper,
-	mouse_out_wrapper}
+	mouse_out_wrapper,
+	resizeCanvas,
+	setVE,
+	view2D,
+	view3D
+}
 export default three_d;
