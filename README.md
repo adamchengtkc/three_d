@@ -10,6 +10,8 @@ https://adamchengtkc.github.io/three_d/
  - [x] Plot surface grid data using Three.js 
  - [x] Multiple surface
  - [x] Add/Remove surface
+ - [x] Change vertical exaggeration
+ - [x] Pseudo 2D view
  - [ ] Update camera fov on new surface
  - [x] Adjustable vertical exaggeration
  - [ ] Independent colour scale
